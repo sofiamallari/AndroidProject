@@ -167,6 +167,7 @@ public class MainActivity extends AppCompatActivity {
                     timer.setText("You Won");
                     score.setVisibility(View.INVISIBLE);
                 }else{
+
                     timer.setText("You Failed");
                     score.setVisibility(View.INVISIBLE);
                 }
