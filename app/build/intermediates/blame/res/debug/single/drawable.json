@@ -64,6 +64,10 @@
         "source": "C:\\Users\\SOFIA\\.android\\build-cache\\786962fe69c8b2777c49cb505bfd2ffde81753da\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
         "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\SOFIA\\.android\\build-cache\\786962fe69c8b2777c49cb505bfd2ffde81753da\\output\\res\\drawable\\abc_vector_test.xml"
     },
@@ -112,6 +116,10 @@
         "source": "C:\\Users\\SOFIA\\.android\\build-cache\\786962fe69c8b2777c49cb505bfd2ffde81753da\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\project.png",
+        "source": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\drawable\\project.png"
+    },
+    {
         "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\SOFIA\\.android\\build-cache\\786962fe69c8b2777c49cb505bfd2ffde81753da\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -134,6 +142,10 @@
     {
         "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
         "source": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\index.png",
+        "source": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\src\\main\\res\\drawable\\index.png"
     },
     {
         "merged": "C:\\Users\\SOFIA\\AndroidStudioProjects\\MyApplication5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
